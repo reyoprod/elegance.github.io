@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elegance.com" resolutions="1x" timestamp="1544566426744">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elegance.com" resolutions="1x" timestamp="1544569284226">
   <folder name="css">
     <file name="site_global.css" crc="322968425"/>
     <file name="master_a-master.css" crc="4040728189" ref="index"/>
