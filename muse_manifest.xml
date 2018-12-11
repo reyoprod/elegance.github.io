@@ -1,0 +1,432 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elegance.com" resolutions="1x" timestamp="1544566426744">
+  <folder name="css">
+    <file name="site_global.css" crc="322968425"/>
+    <file name="master_a-master.css" crc="4040728189" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="259606095" ref="index"/>
+    <file name="index.css" crc="4176738064" ref="index"/>
+    <file name="nomq_index.css" crc="96541572" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u4973.php" crc="531052300" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="hero slider (1).jpg" crc="511897317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (2).jpg" crc="305584305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (4).jpg" crc="482422224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (3).jpg" crc="3960519554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img-20181204-wa0005 (1).jpg" crc="4209119425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_164039-01.jpg" crc="519548252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0571-crop-u7770.jpg" crc="393856497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0570-crop-u8303.jpg" crc="144015105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0572-crop-u8367.jpg" crc="246881367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dfrnt.jpg" crc="4045071238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed.jpg" crc="450162622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="439658527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4251851350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="179257317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_163926-01.jpg" crc="4140501805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0571127x127.jpg" crc="475918995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20181204-wa0005 (1)143x107.jpg" crc="289831833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_164039-01143x107.jpg" crc="3789983236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dfrnt141x107.jpg" crc="4034713185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u8759.jpg" crc="3944500956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_163926-01143x107.jpg" crc="89037372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0572127x127.jpg" crc="3881891203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0570127x127.jpg" crc="142919394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed-crop-u8531.jpg" crc="4234581578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u8695.jpg" crc="4178421129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3143x107.jpg" crc="4161930699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7145.jpg" crc="3925674191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gaf.png" crc="3942325788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iko.png" crc="4274711070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timberline.jpg" crc="87626361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="owens.png" crc="486292036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teed.png" crc="4103521521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bbb.png" crc="3949328159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alex-holyoake-139323-unsplash.jpg" crc="4225857419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (2)-u4167-fr.jpg" crc="429986563" ref="index"/>
+    <file name="img_0571-crop-u77702.jpg" crc="368007473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0570-crop-u83032.jpg" crc="190679914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0572-crop-u83672.jpg" crc="3932529264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u8741.jpg" crc="4061154245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87592.jpg" crc="3944500956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed-crop-u85312.jpg" crc="4234581578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u86952.jpg" crc="4178421129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7145418x418.jpg" crc="509588372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (4)-u4970-fr.jpg" crc="352014406" ref="index"/>
+    <file name="menu (1).png" crc="4016260967" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu (2).png" crc="3912455621" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (2)-u4167-fr2.jpg" crc="4157591872" ref="index"/>
+    <file name="img_0571-crop-u77703.jpg" crc="368007473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0570-crop-u83033.jpg" crc="190679914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0572-crop-u83673.jpg" crc="3932529264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87412.jpg" crc="4061154245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87593.jpg" crc="3944500956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed-crop-u85313.jpg" crc="4234581578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u86953.jpg" crc="4178421129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7145362x362.jpg" crc="236907237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (4)-u4970-fr2.jpg" crc="4199445666" ref="index"/>
+    <file name="hero slider (2)-u4167-fr3.jpg" crc="499573356" ref="index"/>
+    <file name="img-20181204-wa0005 (1)406x305.jpg" crc="4206052541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_164039-01406x305.jpg" crc="297196453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0571-crop-u77704.jpg" crc="4092418592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0570-crop-u83034.jpg" crc="4121541657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0572-crop-u83674.jpg" crc="272666126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dfrnt406x309.jpg" crc="4010814933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed406x261.jpg" crc="297256339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u8673.jpg" crc="258102084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87413.jpg" crc="4231519630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3406x306.jpg" crc="383835020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_163926-01406x305.jpg" crc="4289885875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87594.jpg" crc="3944500956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed-crop-u85314.jpg" crc="4234581578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u86954.jpg" crc="4178421129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7145-crop-u4358.jpg" crc="4287090714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (1)-u4413-fr.jpg" crc="4256546734" ref="index"/>
+    <file name="hero slider (4)-u4970-fr3.jpg" crc="380690213" ref="index"/>
+    <file name="hero slider (2)-u4167-fr4.jpg" crc="4736752" ref="index"/>
+    <file name="7145-crop-u43582.jpg" crc="25323943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20181204-wa0005 (1)365x274.jpg" crc="488666178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_164039-01365x274.jpg" crc="4150823900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0571-crop-u77705.jpg" crc="3765655938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0570-crop-u83035.jpg" crc="115244118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0572-crop-u83675.jpg" crc="483270648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dfrnt365x278.jpg" crc="176544468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed401x259.jpg" crc="3788051864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u86732.jpg" crc="3990062732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87414.jpg" crc="3964566708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3365x275.jpg" crc="3981007428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181205_163926-01365x274.jpg" crc="4091115015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u86955.jpg" crc="4178421129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmed-crop-u85315.jpg" crc="4234581578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u87595.jpg" crc="3944500956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero slider (1)-u4413-fr2.jpg" crc="135811940" ref="index"/>
+    <file name="hero slider (4)-u4970-fr4.jpg" crc="3907010665" ref="index"/>
+    <file name="u3964-4.png" crc="3776561542" ref="index"/>
+    <file name="u4007-4.png" crc="4087700580" ref="index"/>
+    <file name="u4056-4.png" crc="530938413" ref="index"/>
+    <file name="u5620-4.png" crc="4081712068" ref="index"/>
+    <file name="u6324-4.png" crc="482205243" ref="index"/>
+    <file name="u6382-4.png" crc="3910035229" ref="index"/>
+    <file name="u6440-4.png" crc="293118561" ref="index"/>
+    <file name="u6266-4.png" crc="431268012" ref="index"/>
+    <file name="u6498-4.png" crc="293118561" ref="index"/>
+    <file name="u3964-42.png" crc="3776561542" ref="index"/>
+    <file name="u4007-42.png" crc="4087700580" ref="index"/>
+    <file name="u4056-42.png" crc="530938413" ref="index"/>
+    <file name="u5620-42.png" crc="4081712068" ref="index"/>
+    <file name="u6324-42.png" crc="482205243" ref="index"/>
+    <file name="u6382-42.png" crc="3910035229" ref="index"/>
+    <file name="u6440-42.png" crc="293118561" ref="index"/>
+    <file name="u6266-42.png" crc="431268012" ref="index"/>
+    <file name="u6498-42.png" crc="293118561" ref="index"/>
+    <file name="u3964-43.png" crc="3776561542" ref="index"/>
+    <file name="u4007-43.png" crc="4087700580" ref="index"/>
+    <file name="u4056-43.png" crc="530938413" ref="index"/>
+    <file name="u5620-43.png" crc="4081712068" ref="index"/>
+    <file name="u6324-43.png" crc="482205243" ref="index"/>
+    <file name="u6440-43.png" crc="293118561" ref="index"/>
+    <file name="u6266-43.png" crc="431268012" ref="index"/>
+    <file name="u6498-43.png" crc="293118561" ref="index"/>
+    <file name="u6382-43.png" crc="3910035229" ref="index"/>
+    <file name="u3964-44.png" crc="3776561542" ref="index"/>
+    <file name="u4007-44.png" crc="4087700580" ref="index"/>
+    <file name="u4056-44.png" crc="530938413" ref="index"/>
+    <file name="u5620-44.png" crc="4081712068" ref="index"/>
+    <file name="u6440-44.png" crc="293118561" ref="index"/>
+    <file name="u6498-44.png" crc="293118561" ref="index"/>
+    <file name="u6324-44.png" crc="482205243" ref="index"/>
+    <file name="u6266-44.png" crc="431268012" ref="index"/>
+    <file name="u6382-44.png" crc="3910035229" ref="index"/>
+    <file name="u3964-45.png" crc="3776561542" ref="index"/>
+    <file name="u4007-45.png" crc="4087700580" ref="index"/>
+    <file name="u4056-45.png" crc="530938413" ref="index"/>
+    <file name="u5620-45.png" crc="4081712068" ref="index"/>
+    <file name="u6440-45.png" crc="293118561" ref="index"/>
+    <file name="u6498-45.png" crc="293118561" ref="index"/>
+    <file name="u6324-45.png" crc="482205243" ref="index"/>
+    <file name="u6266-45.png" crc="431268012" ref="index"/>
+    <file name="u6382-45.png" crc="3910035229" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3826079356" seo="true" mt="1544566323895" redirect="true"/>
+</manifest>
