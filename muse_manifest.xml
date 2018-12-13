@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elegance.com" resolutions="1x" timestamp="1544569284226">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elegance.com" resolutions="1x" timestamp="1544663989406">
   <folder name="css">
     <file name="site_global.css" crc="322968425"/>
-    <file name="master_a-master.css" crc="4040728189" ref="index"/>
+    <file name="master_a-master.css" crc="524797132" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="259606095" ref="index"/>
-    <file name="index.css" crc="4176738064" ref="index"/>
-    <file name="nomq_index.css" crc="96541572" ref="index"/>
+    <file name="index.css" crc="4153825391" ref="index"/>
+    <file name="nomq_index.css" crc="3861239337" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -217,10 +217,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="alex-holyoake-139323-unsplash.jpg" crc="4225857419" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="alex-holyoake-139323-unsplash.jpg" crc="487435169" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -427,6 +424,36 @@
     <file name="u6324-45.png" crc="482205243" ref="index"/>
     <file name="u6266-45.png" crc="431268012" ref="index"/>
     <file name="u6382-45.png" crc="3910035229" ref="index"/>
+    <file name="u8982_states.png" crc="4234390405" ref="index"/>
+    <file name="u8982_states-r.png" crc="3758352714" ref="index"/>
+    <file name="u9026_states.png" crc="161966350" ref="index"/>
+    <file name="u9026_states-r.png" crc="4221462733" ref="index"/>
+    <file name="u9063_states.png" crc="4170848533" ref="index"/>
+    <file name="u9063_states-r.png" crc="393562241" ref="index"/>
+    <file name="u8982_states2.png" crc="4234390405" ref="index"/>
+    <file name="u8982_states-r2.png" crc="3758352714" ref="index"/>
+    <file name="u9026_states2.png" crc="161966350" ref="index"/>
+    <file name="u9026_states-r2.png" crc="4221462733" ref="index"/>
+    <file name="u9063_states2.png" crc="4170848533" ref="index"/>
+    <file name="u9063_states-r2.png" crc="393562241" ref="index"/>
+    <file name="u8982_states3.png" crc="4234390405" ref="index"/>
+    <file name="u8982_states-r3.png" crc="3758352714" ref="index"/>
+    <file name="u9026_states3.png" crc="161966350" ref="index"/>
+    <file name="u9026_states-r3.png" crc="4221462733" ref="index"/>
+    <file name="u9063_states3.png" crc="4170848533" ref="index"/>
+    <file name="u9063_states-r3.png" crc="393562241" ref="index"/>
+    <file name="u8982_states4.png" crc="4234390405" ref="index"/>
+    <file name="u8982_states-r4.png" crc="3758352714" ref="index"/>
+    <file name="u9026_states4.png" crc="161966350" ref="index"/>
+    <file name="u9026_states-r4.png" crc="4221462733" ref="index"/>
+    <file name="u9063_states4.png" crc="4170848533" ref="index"/>
+    <file name="u9063_states-r4.png" crc="393562241" ref="index"/>
+    <file name="u8982_states5.png" crc="4234390405" ref="index"/>
+    <file name="u8982_states-r5.png" crc="3758352714" ref="index"/>
+    <file name="u9026_states5.png" crc="161966350" ref="index"/>
+    <file name="u9026_states-r5.png" crc="4221462733" ref="index"/>
+    <file name="u9063_states5.png" crc="4170848533" ref="index"/>
+    <file name="u9063_states-r5.png" crc="393562241" ref="index"/>
   </folder>
-  <file name="index.html" crc="3826079356" seo="true" mt="1544566323895" redirect="true"/>
+  <file name="index.html" crc="4147317105" seo="true" mt="1544663932162" redirect="true"/>
 </manifest>
